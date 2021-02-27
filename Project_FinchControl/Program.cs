@@ -333,7 +333,6 @@ namespace Project_FinchControl
 
             DisplayMenuPrompt("Talent Show Menu");
 
-
         }
 
         #endregion
